@@ -22,7 +22,7 @@ Tap the **Refresh** button in the *My Points Summary* card on the home screen to
 ## Contact & Support
 Need help, found a bug, or have feedback to share? Reach out to us directly:
 
-* **Email:** your-support-email@example.com
+* **Email:** knowledgecheck.app@gmail.com
 * **Issue Tracker:** You can also open a ticket in the [Issues](https://github.com/learningD365crm/knowledge-check-support/issues) tab of this repository.
 
 ---
